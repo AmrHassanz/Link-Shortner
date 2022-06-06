@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Link-Shortner/static/css/main.40326f80.css",
+    "main.js": "/Link-Shortner/static/js/main.8f2bdfb0.js",
+    "static/media/fa-solid-900.ttf": "/Link-Shortner/static/media/fa-solid-900.e615bbcb258550973c16.ttf",
+    "static/media/fa-brands-400.ttf": "/Link-Shortner/static/media/fa-brands-400.b823fc0dbb5a5f0c21bb.ttf",
+    "static/media/fa-solid-900.woff2": "/Link-Shortner/static/media/fa-solid-900.59edf72a325ac2048d60.woff2",
+    "static/media/fa-brands-400.woff2": "/Link-Shortner/static/media/fa-brands-400.ebb7a127d2d8ee6f1832.woff2",
+    "static/media/fa-regular-400.ttf": "/Link-Shortner/static/media/fa-regular-400.0d03b1bbd1d62c1e1284.ttf",
+    "static/media/fa-regular-400.woff2": "/Link-Shortner/static/media/fa-regular-400.0caf4c6cf244a90efcc5.woff2",
+    "static/media/illustration-working.svg": "/Link-Shortner/static/media/illustration-working.c9b5ef5452363d8be3df709375d50bd0.svg",
+    "static/media/fa-v4compatibility.ttf": "/Link-Shortner/static/media/fa-v4compatibility.4baccb548138840fa33a.ttf",
+    "static/media/fa-v4compatibility.woff2": "/Link-Shortner/static/media/fa-v4compatibility.afac89562a5301459069.woff2",
+    "static/media/icon-fully-customizable.svg": "/Link-Shortner/static/media/icon-fully-customizable.a1532a74fa781f6fde327313bd5ffce3.svg",
+    "static/media/icon-brand-recognition.svg": "/Link-Shortner/static/media/icon-brand-recognition.c349d3b69f7442e5ac3552e4138e72e7.svg",
+    "static/media/bg-boost-desktop.svg": "/Link-Shortner/static/media/bg-boost-desktop.772154c9b0e451733f5e.svg",
+    "static/media/icon-detailed-records.svg": "/Link-Shortner/static/media/icon-detailed-records.265c8aea77b546e08ba3575f6a8a9f70.svg",
+    "static/media/bg-boost-mobile.svg": "/Link-Shortner/static/media/bg-boost-mobile.4b04bd89ea775da3deff.svg",
+    "index.html": "/Link-Shortner/index.html",
+    "static/media/bg-shorten-desktop.svg": "/Link-Shortner/static/media/bg-shorten-desktop.0d9742f433f4b0d8752b.svg",
+    "static/media/bg-shorten-mobile.svg": "/Link-Shortner/static/media/bg-shorten-mobile.41c34b33a14a3077e506.svg",
+    "main.40326f80.css.map": "/Link-Shortner/static/css/main.40326f80.css.map",
+    "main.8f2bdfb0.js.map": "/Link-Shortner/static/js/main.8f2bdfb0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40326f80.css",
+    "static/js/main.8f2bdfb0.js"
+  ]
+}
